@@ -1,4 +1,4 @@
-proxy=wss://present-nichol-vivo1-4f3dad8a.koyeb.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==
+proxy=wss://sandbox-92331b3052ae4f7c883d9083ed65a8ab-ethereum-5999.prod-sandbox.chainide.com/
 host=127.0.0.1
 port=3006
 username=RUboaEpzX3UdWLCSbLCAfL568bDJMicSR6
