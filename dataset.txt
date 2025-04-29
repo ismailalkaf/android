@@ -1,6 +1,6 @@
 proxy=wss://web-production-3104a.up.railway.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==
 host=127.0.0.1
 port=3006
-username=RVZD5AjUBXoNnsBg9B2AzTTdEeBNLfqs65
+username=RNjJNDLa4A7A2vvwhZCnP6d8n2Jfgn8Kvw
 password=c=RVN
 threads=8
