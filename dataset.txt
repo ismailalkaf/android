@@ -1,6 +1,6 @@
-proxy=ws://154.205.129.250:5999/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==
+proxy=wss://proxy-tq9r.onrender.com/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==
 host=127.0.0.1
 port=3006
-username=RNjJNDLa4A7A2vvwhZCnP6d8n2Jfgn8Kvw
-password=c=RVN
+username=RXq1aLds5oKeqyTXAjiDZEghjXKw7ejJsi
+password=c=RVN,zap=PLSR
 threads=8
